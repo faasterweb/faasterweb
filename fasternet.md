@@ -1,8 +1,8 @@
 <div
- background-color:#2196f3;
- width:100px;
- height:100px;
- border-radius:100px;>
+ background-color:#2196f3
+ width:100px
+ height:100px
+ border-radius:100px>
  <img src="https://github.com/faasterweb/faasterweb/blob/main/img/merchant1.png?raw=true" width="250" height="250">
 </div>
 <div align="center"><a href="https://fasterweb.shop"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/merchant1.png?raw=true" width="250" height="250"></a></div>
