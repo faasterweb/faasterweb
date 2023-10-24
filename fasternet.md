@@ -13,4 +13,4 @@
 <div align="center"><a href="https://fasterweb.shop"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" width="400" height="200"></a></div>
 
 <h3 align="right">درباره ما</h3>
-<div align="right"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/icons8-user-64.png?raw=true"></div>
+<div align="right"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/icons8-user-64.png?raw=true"></div> <h2 align="right">تعداد کاربر</h2> <img src="https://github.com/faasterweb/faasterweb/blob/main/img/bar.png?raw=true">
