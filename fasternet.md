@@ -1,4 +1,4 @@
-<div style="width:500px;height:600px;">![Logo](https://github.com/faasterweb/faasterweb/blob/main/img/merchant1.png?raw=true)</div>
+<div align="center"><a href="https://fasterweb.shop"><img src="[https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true](https://github.com/faasterweb/faasterweb/blob/main/img/merchant1.png?raw=true)" width="400" height="400"></a></div>
 <h2 align="center">برای ورود به سایت کلیک کنید <br>https://fasterweb.shop</h2>
 <h3 align="right">امکانات وی پی ان</h3>
 <p align="right">
