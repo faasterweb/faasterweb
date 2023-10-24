@@ -14,5 +14,5 @@
 
 <h3 align="right">درباره ما</h3><br>
 <img src="https://github.com/faasterweb/faasterweb/blob/main/img/icons8-user-64.png?raw=true "align="right"> <p align="right">تعداد کاربر​ : 5,237 نفر</p> <img src="https://github.com/faasterweb/faasterweb/blob/main/img/bar.png?raw=true" align="right" height="16px" width="350px">
-<br>
-<img src="https://github.com/faasterweb/faasterweb/blob/main/img/icons8-server-64.png?raw=true" align="right"> <p align="right">تعداد سرور​ : 16 </p> <img src="https://github.com/faasterweb/faasterweb/blob/main/img/bar.png?raw=true" align="right" height="16px" width="100px">
+<br><br>
+<img src="https://github.com/faasterweb/faasterweb/blob/main/img/icons8-server-64.png?raw=true" align="right"> <p align="right">تعداد سرور​ : 16 </p> <img src="https://github.com/faasterweb/faasterweb/blob/main/img/bar.png?raw=true" align="right" height="16px" width="135px">
