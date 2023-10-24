@@ -9,4 +9,4 @@
 🟥 ارسال خودکار اطلاعات بعد از پرداخت<br>
 🟫 نصب و راه اندازی سریع و راحت</p><br>
 <h3 align="center"><a href="https://fasterweb.shop/price">لیست قیمت ها</a></h3>
-<div align="center"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" width="100" height="50"></img></div>
+<div align="center"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" width="500" height="200"></img></div>
