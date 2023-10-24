@@ -1,4 +1,3 @@
-<div align="center"><img src=""></img></div>
 <h2 align="center">برای ورود به سایت کلیک کنید <br>https://fasterweb.shop</h2>
 <h3 align="right">امکانات وی پی ان</h3>
 <p align="right">
@@ -10,3 +9,4 @@
 🟥 ارسال خودکار اطلاعات بعد از پرداخت<br>
 🟫 نصب و راه اندازی سریع و راحت</p><br>
 <h3 align="center"><a href="https://fasterweb.shop/price">لیست قیمت ها</a></h3>
+<div align="center"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" width="100" height="50"></img></div>
