@@ -1,10 +1,9 @@
-div{
+<div
  background-color:#2196f3;
  width:100px;
  height:100px;
- border-radius:100px;
-}
-
+ border-radius:100px;>
+</div>
 <div align="center"><a href="https://fasterweb.shop"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/merchant1.png?raw=true" width="250" height="250"></a></div>
 <h2 align="center">برای ورود به سایت کلیک کنید <br>https://fasterweb.shop</h2>
 <h3 align="right">امکانات وی پی ان</h3>
