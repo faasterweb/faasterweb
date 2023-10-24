@@ -9,7 +9,7 @@
 🟥 ارسال خودکار اطلاعات بعد از پرداخت<br>
 🟫 نصب و راه اندازی سریع و راحت</p><br>
 
-<div align="center"><a href="https://fasterweb.shop"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" width="400" height="100"></a></div>
+<div align="center"><a href="https://fasterweb.shop"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" width="400" height="200"></a></div>
 
 <h3 align="right">درباره ما</h3><br>
 <img src="https://github.com/faasterweb/faasterweb/blob/main/img/icons8-user-64.png?raw=true "align="right"> <p align="right">تعداد کاربر​ : 5,237 نفر</p> <img src="https://github.com/faasterweb/faasterweb/blob/main/img/bar.png?raw=true" align="right" height="16px" width="450px">
