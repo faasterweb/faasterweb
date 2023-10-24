@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/faasterweb/faasterweb/blob/main/img/merchant1.png?raw=true)
+![Logo width="400" height="400"](https://github.com/faasterweb/faasterweb/blob/main/img/merchant1.png?raw=true)
 <h2 align="center">برای ورود به سایت کلیک کنید <br>https://fasterweb.shop</h2>
 <h3 align="right">امکانات وی پی ان</h3>
 <p align="right">
