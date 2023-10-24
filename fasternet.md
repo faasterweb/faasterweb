@@ -11,3 +11,5 @@
 🟫 نصب و راه اندازی سریع و راحت</p><br>
 
 <div align="center"><a href="https://fasterweb.shop"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" width="400" height="200"></a></div>
+
+<h3 align="right">درباره ما</h3>
