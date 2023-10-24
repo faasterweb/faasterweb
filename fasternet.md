@@ -8,4 +8,4 @@
 🟧 قابلیت اتصال 3 کاربر به صورت همزمان بدون افت سرعت<br>
 🟥 ارسال خودکار اطلاعات بعد از پرداخت<br>
 🟫 نصب و راه اندازی سریع و راحت</p><br>
-<img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" size="medium"></img>
+<img align="center" src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" size="medium"></img>
