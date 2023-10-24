@@ -12,5 +12,7 @@
 
 <div align="center"><a href="https://fasterweb.shop"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" width="400" height="200"></a></div>
 
-<h3 align="right">درباره ما</h3>
-<div><img src="https://github.com/faasterweb/faasterweb/blob/main/img/icons8-user-64.png?raw=true "align="right"></div> <p align="right">تعداد کاربر​ : 5,237 نفر</p> <img src="https://github.com/faasterweb/faasterweb/blob/main/img/bar.png?raw=true" align="right" height="16px" width="350px">
+<h3 align="right">درباره ما</h3><br>
+<img src="https://github.com/faasterweb/faasterweb/blob/main/img/icons8-user-64.png?raw=true "align="right"> <p align="right">تعداد کاربر​ : 5,237 نفر</p> <img src="https://github.com/faasterweb/faasterweb/blob/main/img/bar.png?raw=true" align="right" height="16px" width="350px">
+
+<img src="https://github.com/faasterweb/faasterweb/blob/main/img/icons8-server-64.png?raw=true" align="right"> <p align="right">تعداد سرور​ : 16 </p> <img src="https://github.com/faasterweb/faasterweb/blob/main/img/bar.png?raw=true" align="right" height="16px" width="100px">
