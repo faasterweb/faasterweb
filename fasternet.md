@@ -1,25 +1,3 @@
-<html>
-<head>
-<style>
-
-div{
- background-color:#2196f3;
- width:100px;
- height:100px;
-}
-
-.t1{
- border-radius:100px;
-}
-
-</style>
-</head>
-<body>
-
-<div class="t1"></div>
-
-
-
 <div align="center"><a href="https://fasterweb.shop"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/merchant1.png?raw=true" width="250" height="250"></a></div>
 <h2 align="center">برای ورود به سایت کلیک کنید <br>https://fasterweb.shop</h2>
 <h3 align="right">امکانات وی پی ان</h3>
@@ -33,7 +11,3 @@ div{
 🟫 نصب و راه اندازی سریع و راحت</p><br>
 
 <div align="center"><a href="https://fasterweb.shop"><img src="https://github.com/faasterweb/faasterweb/blob/main/img/price.png?raw=true" width="400" height="200"></a></div>
-
-
-</body>
-</html>
